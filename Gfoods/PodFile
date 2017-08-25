@@ -1,0 +1,14 @@
+platform :ios, ’10.0’
+target ‘Gfoods’ do
+pod "AFNetworking", "~>3.1.0"
+use_frameworks!
+pod 'Alamofire'
+pod 'SwiftIconFont'
+pod "ReachabilitySwift"
+pod "MJRefresh"
+pod 'SDWebImage', '~> 4.0'  
+pod 'RealmSwift'   
+pod 'SnapKit'   
+pod 'SwiftyJSON'  
+pod 'SVProgressHUD' 
+end 
